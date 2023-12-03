@@ -10,18 +10,18 @@ python -m venv env
 cd env\Scripts
 activate
 cd ../..
-
 ```
 
 ### Install Dependencies
 
+```
 pip install indeterminatebeam openseespy
+```
 
 ### Run codes
 
 ```
 python <yourPythonScript.py>
-
 ```
 
 Instructions are provided via comments
